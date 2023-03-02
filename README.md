@@ -12,7 +12,7 @@ do it using only 3 lines.
 ## How to use
 
 - Download or copy `cubeRain.js` to your working project.
-- Instanciate it and use `init` method to start.
+- Instantiate it and use `init` method to start.
 ``` js
   import CubeRain from './cubeRain.js'
 
