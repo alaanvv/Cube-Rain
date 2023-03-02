@@ -1,6 +1,6 @@
 import { WebGLRenderer, Scene, PerspectiveCamera, BufferGeometry, Line } from 'https://unpkg.com/three/build/three.module.js'
 
-export default class cubeRain {
+export default class CubeRain {
   generatePoints = (posArr) => {
     return posArr.map(pos => ({ x: pos[0], y: pos[1], z: pos[2] }))
   }
