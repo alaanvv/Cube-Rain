@@ -19,7 +19,7 @@ do it using only 3 lines.
   const cubeRain = new CubeRain()
   cubeRain.init()
 ```
-- You can change it configurations by `cubeRain.cubeConfig`  
+- You can change it configurations by `CubeRain.cubeConfig`  
 and changing it values.
 ``` js
 cubeConfig = {
