@@ -44,3 +44,5 @@ cubeConfig = {
 ```
 - You can pass a element as parameter to `CubeRain.init`  
 to place the animation inside of it.
+- The animation happens in a canvas element, so you'll need  
+to give it a position absolute if you want it as background.
