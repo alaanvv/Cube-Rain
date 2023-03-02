@@ -6,3 +6,43 @@ lines of code, you can use my **Cube Rain** to
 do it using only 2 lines.  
 You can configure it as you want and place it  
 where you want.
+
+<img src='./cubes.gif'>
+
+---
+
+## How to use
+
+- Download or copy `cubeRain.js` to your working project.
+- Instanciate it and use `init` method to start.
+``` js
+  import CubeRain from './cubeRain.js'
+
+  const cubeRain = new CubeRain()
+  cubeRain.init()
+```
+- You can change it configurations by `cubeRain.cubeConfig`  
+and changing it values.
+``` js
+cubeConfig = {
+    num: , // Number of cubes
+    size: { max: , min:  }, // Cube size
+    pos: { // Start position
+      x: { max: , min:  },
+      y: { max: , min:  },
+      z: { max: , min:  }
+    },
+    rotation: { // Rotation speed
+      x: { max: , min:  },
+      y: { max: , min:  },
+      z: { max: , min:  }
+    },
+    move: { // Movement speed
+      x: { max: , min:  },
+      y: { max: , min:  },
+      z: { max: , min:  }
+    }
+  }
+```
+- You can pass a element as parameter to `CubeRain.init`  
+to place the animation inside of it.
