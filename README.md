@@ -2,7 +2,7 @@
 
 If you need a _minimalist_ style for your  
 site, but you don't want to write a lot of  
-lines of code, you can use my **Cube Rain** to  
+ code, you can use my **Cube Rain** to  
 do it using only 3 lines.  
 
 <img src='./cubes.gif'>
