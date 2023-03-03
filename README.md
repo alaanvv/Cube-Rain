@@ -46,3 +46,7 @@ cubeConfig = {
 to place the animation inside of it.
 - The animation happens in a canvas element, so you'll need  
 to give it a position absolute if you want it as background.
+
+> If you want to test it or generate configurations, go [here][testSite]
+
+[testSite]: https://alaanvv.github.io/Cube-Rain
