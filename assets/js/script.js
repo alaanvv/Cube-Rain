@@ -20,7 +20,7 @@ const redraw = () => {
 const textarea = document.querySelector('textarea')
 textarea.value = 'cubeConfig = ' + JSON.stringify(cubeRain.cubeConfig, null, 2)
 
-alert('You can test values in the textare on the top-left.')
+alert('You can test values in the textarea on the top-left.')
 
 document.addEventListener('click', e => {
   if (e.target.tagName === 'CANVAS') redraw()
