@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  border: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+}
+
+body {
+  overflow: hidden;
+}
+
+div {
+  position: absolute;
+}
+
+canvas {
+  z-index: 0;
+}
