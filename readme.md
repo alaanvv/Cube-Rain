@@ -7,7 +7,7 @@
  code, you can use my **Cube Rain** to  
  do it using only 3 lines.  
 
- <img src='./cubes.gif'>
+ <img src='https://github.com/alaanvv/Image-Database/blob/main/Misc/cubes.gif?raw=true'>
 </div>
 
 ---
