@@ -1,11 +1,14 @@
-# Cube Rain
+<div align='center'>
 
-If you need a _minimalist_ style for your  
-site, but you don't want to write a lot of  
+ # Cube Rain
+
+ If you need a _minimalist_ style for your  
+ site, but you don't want to write a lot of  
  code, you can use my **Cube Rain** to  
-do it using only 3 lines.  
+ do it using only 3 lines.  
 
-<img src='./cubes.gif'>
+ <img src='./cubes.gif'>
+</div>
 
 ---
 
